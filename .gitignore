@@ -4,6 +4,7 @@
 .idea
 .vscode
 /vendor
+/vendor/composer
 *.log
 .DS_Store
 /runtime
